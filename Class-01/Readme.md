@@ -16,7 +16,7 @@ Ejercicio Clase 2
 | Nombre  | Text |Cualquier valor|Campo Vacío      |Valida que tenga una longitud mayor a 1|
 |Apellido | Text |Cualquier valor|Campo Vacío      |Valida que tenga una longitud mayor a 1|
 |  Email  | Email|Formato Email con nombre+@+organización+.+tipo|Lo que no tenga formato email|Valida que incluya @+dominio válidos|
-|Fecha de Nacimiento|Date|valor númerico con formato fecha dd/mm/yyyy|Vacío|No permite letras ni otro formato que el impuesto| 
+|Fecha de Nacimiento|Date|valor númerico con formato fecha dd/mm/yyyy|Campo Vacío|No permite letras ni otro formato que el impuesto| 
 |País de Residencia|Text|Cualquier valor|Campo Vacío|Valida que tenga una longitud mayor a 1|
 
 ## C) Realizar una exploración del formulario y verificar si mediante el lector de pantalla NVDA pueden acceder a cada campo mediante la tecla TAB y completa el mismo. ¿Hay algún campo o acción que no resulte accesible?
