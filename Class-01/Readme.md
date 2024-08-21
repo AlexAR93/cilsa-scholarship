@@ -10,7 +10,7 @@ Ejercicio Clase 2
 
 4- Al llenar el último campo, debajo encontrarás un botón de enviar. Si estás seguro de que todos los campos están correctos, haz clic o presiona Enter para enviar. Si todo está bien, escucharás o verás una alerta del estado.
 
-## Indicar para cada campo cuales son los valores válidos y cuales inválidos. ¿Se realiza esa validación de alguna forma?
+## B) Indicar para cada campo cuales son los valores válidos y cuales inválidos. ¿Se realiza esa validación de alguna forma?
 |   Campo | Tipo | Valor valido  | Valor invalido | Validaciones |
 |---------|------|---------------|----------------|--------------|          
 | Nombre  | Text |Cualquier valor|Campo Vacío     |Valida que tenga una longitud mayor a 1|
@@ -19,6 +19,6 @@ Ejercicio Clase 2
 | Fecha de Nacimiento|Date|valor númerico con formato fecha dd/mm/yyyy|Vacío|No permite letras ni otro formato que el impuesto| 
 | Pais de Residencia|Text|Cualquier valor|Campo Vacío|Valida que tenga una longitud mayor a 1|
 
-## Realizar una exploración del formulario y verificar si mediante el lector de pantalla NVDA pueden acceder a cada campo mediante la tecla TAB y completa el mismo. ¿Hay algún campo o acción que no resulte accesible?
+## C) Realizar una exploración del formulario y verificar si mediante el lector de pantalla NVDA pueden acceder a cada campo mediante la tecla TAB y completa el mismo. ¿Hay algún campo o acción que no resulte accesible?
 
 El formulario cumple con el lector de pantalla. La tecla TAB recorre todo el formulario uno por uno, de arriba hacia abajo. Todos los campos son accesibles.
