@@ -5,10 +5,10 @@ Estos son los 2 Hosting que decidí investigar= Firebase - Netlify.
 
 ## Firebase Hosting
 
-Costo: Gratis
-Limitaciones: Si
-Modelo de pago: Mensual
-Moneda de pago: USD
+Costo: Gratis  
+Limitaciones: Si  
+Modelo de pago: Mensual  
+Moneda de pago: USD  
 
 # Introducción
 
@@ -28,23 +28,23 @@ Este hosting esta pensado para páginas estáticas, landing page, y mas del lado
 Ahora volviendo a esta herramienta básica que provee Google, veremos lo que ofrece y sus limitaciones en version base y los montos que se cobran en caso de Excesos.
 
 # Ofrece
-.Dominio personalizado y SSL
-.Varios sitios por proyecto
+-Dominio personalizado y SSL  
+-Varios sitios por proyecto  
 
 # Limitación
-.Almacenamiento: 10GB.
-.Transferencia de datos: 360MB por día.
+-Almacenamiento: 10GB  
+-Transferencia de datos: 360MB por día  
 
 # Costo en caso de aceptar pago por Excesos
-.Almacenamiento: $0.026 por GB Extra
-.Transferencia de datos: $0.15 por GB Extra
+-Almacenamiento: $0.026 por GB Extra  
+-Transferencia de datos: $0.15 por GB Extra  
 
 ## Netlify
 
-Costo: Gratis
-Limitaciones: Si
-Modelo de pago: Mensual
-Moneda de pago: USD
+Costo: Gratis  
+Limitaciones: Si  
+Modelo de pago: Mensual  
+Moneda de pago: USD  
 
 # Introducción
 Netlify te permite crear, alojar y mantener tu sitio web o aplicación con implementación continua, HTTPS, entre otros beneficios pagando o no su plan mensual.
@@ -61,35 +61,35 @@ Para resumir:
 Ahora nos enfocaremos en el plan gratis, sus limitaciones y lo que ofrece igual al pro. No analizaremos el plan pro ya que se haría muy extenso y tiene otro plan mas complejo de comparar, como el de empresas que es personalizado para C/U.
 
 # Ofrece
-.Deploy y Hosting
+-Deploy y Hosting
     -Despliegue continuo de proyectos desde repositorios Git.
     -Hosting estático con CDN global.
     -Certificado SSL automáticos.
-.Dominio personalizado
+-Dominio personalizado
     -En caso de tener un dominio propio, puedes reemplazar el asignado por Netlify gratis por otro.
-.Construcción y despliegue
+-Construcción y despliegue
     -300 minutos de tiempo de construcción al mes.
     -Despliegue de aplicaciones JAMstack, sitios estáticos y funciones lambda.
-.Ancho de banda y almacenamiento
+-Ancho de banda y almacenamiento
     -100GB de ancho de banda mensual.
     -1 TB de almacenamiento para sitios estáticos.
-.Funciones de Netlify
-    -Acceso para 1 miembro del equipo
-.Soporte
+-Funciones de Netlify
+    -Acceso para 1 miembro del equipo.
+-Soporte
     -Soporte por foro y documentación.
 
 # Limitación
-.Construcción simultánea: 1
-.Ancho de banda: 100GB
-.Minutos de construcción: 300 minutos
-.Sitios Web: 500 
-.Funciones de borde: 1 Millón x Mes (Por Exceso 2 dólares x 0.5 M)
+-Construcción simultánea: 1  
+-Ancho de banda: 100GB  
+-Minutos de construcción: 300 minutos  
+-Sitios Web: 500   
+-Funciones de borde: 1 Millón x Mes (Por Exceso 2 dólares x 0.5 M)  
 
 # Igual al plan PRO
-.Máximos de sitios Web: 500
-.Funciones sin servidor: 125k por sitio X mes (25 dólares por exceso)
-.Formularios: 100 por sitio por mes(por exceso 19 dólares)
-.Análisis del sitio: 9 dólares por sitio por mes
+-Máximos de sitios Web: 500  
+-Funciones sin servidor: 125k por sitio X mes (25 dólares por exceso)  
+-Formularios: 100 por sitio por mes(por exceso 19 dólares)  
+-Análisis del sitio: 9 dólares por sitio por mes  
 
 ## Comparación entre los 2 servicios
 Tanto Firebase y Netlify tienen su plan base gratuito, pero ofrecen servicio totalmente distinto.
@@ -107,34 +107,34 @@ Firebase tiene un plan mensual variable, es decir, arranca de su base gratis cob
 Netlify por su parte tiene su base gratis pero para pasar al plan pro debes pagar una cuota fija mensual, lo que podría no hacerlo muy rentable para una página que se excede de los limites por poco.
 
 # Base gratis (Solo Hosting)
-Ancho de banda:
--Firebase: 360 MB x día x página Web | $0.15 x GB
--Netlify: 100 GB para total de sitios
+Ancho de banda:  
+-Firebase: 360 MB x día x página Web | $0.15 x GB  
+-Netlify: 100 GB para total de sitios  
 
-Almacenamiento:
--Firebase: 10 GB por página Web | $0.026US x GB
--Netlify: 100 GB para total sitios
+Almacenamiento:  
+-Firebase: 10 GB por página Web | $0.026US x GB  
+-Netlify: 100 GB para total sitios  
 
-Tiempo de construcción
--Firebase: Ilimitado
--Netlify: 300 Minutos x més
+Tiempo de construcción:  
+-Firebase: Ilimitado  
+-Netlify: 300 Minutos x més  
 
-Certificado SSL
--Firebase: Si
--Netlify: Si
+Certificado SSL:  
+-Firebase: Si  
+-Netlify: Si  
 
-Dominio personalizado
--Firebase: Si
--Netlify: SI
+Dominio personalizado:  
+-Firebase: Si  
+-Netlify: SI  
 
-Soporte y documentación
--Firebase: Si
--Netlify: Si
+Soporte y documentación:  
+-Firebase: Si  
+-Netlify: Si  
 
-Alojamiento Base de datos
--Firebase: Si
--Netlify: No
+Alojamiento Base de datos:  
+-Firebase: Si  
+-Netlify: No  
 
-Miembros de equipo
--Firebase: Ilimitado
--Netlify: 1
+Miembros de equipo:  
+-Firebase: Ilimitado  
+-Netlify: 1  
