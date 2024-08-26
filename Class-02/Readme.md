@@ -1,16 +1,16 @@
-### Clase 3
-### Hosting
+# Clase 3
+# Hosting
 
 Estos son los 2 Hosting que decidí investigar= Firebase - Netlify.
 
-## Firebase Hosting
+# Firebase Hosting
 
 Costo: Gratis  
 Limitaciones: Si  
 Modelo de pago: Mensual  
 Moneda de pago: USD  
 
-# Introducción
+## Introducción
 
 Firebase es una herramienta de Google que ofrece diversos servicios con iniciativa "Free", entre ellas esta Firebase Hosting.
 
@@ -27,26 +27,26 @@ Este hosting esta pensado para páginas estáticas, landing page, y mas del lado
 
 Ahora volviendo a esta herramienta básica que provee Google, veremos lo que ofrece y sus limitaciones en version base y los montos que se cobran en caso de Excesos.
 
-# Ofrece
+## Ofrece
 -Dominio personalizado y SSL  
 -Varios sitios por proyecto  
 
-# Limitación
+## Limitación
 -Almacenamiento: 10GB  
 -Transferencia de datos: 360MB por día  
 
-# Costo en caso de aceptar pago por Excesos
+## Costo en caso de aceptar pago por Excesos
 -Almacenamiento: $0.026 por GB Extra  
 -Transferencia de datos: $0.15 por GB Extra  
 
-## Netlify
+# Netlify
 
 Costo: Gratis  
 Limitaciones: Si  
 Modelo de pago: Mensual  
 Moneda de pago: USD  
 
-# Introducción
+## Introducción
 Netlify te permite crear, alojar y mantener tu sitio web o aplicación con implementación continua, HTTPS, entre otros beneficios pagando o no su plan mensual.
 Su base gratis es generosa para proyectos personales, prototipos o inicios.
 
@@ -60,7 +60,7 @@ Para resumir:
 
 Ahora nos enfocaremos en el plan gratis, sus limitaciones y lo que ofrece igual al pro. No analizaremos el plan pro ya que se haría muy extenso y tiene otro plan mas complejo de comparar, como el de empresas que es personalizado para C/U.
 
-# Ofrece
+## Ofrece
 -Deploy y Hosting
     -Despliegue continuo de proyectos desde repositorios Git.
     -Hosting estático con CDN global.
@@ -78,20 +78,20 @@ Ahora nos enfocaremos en el plan gratis, sus limitaciones y lo que ofrece igual 
 -Soporte
     -Soporte por foro y documentación.
 
-# Limitación
+## Limitación
 -Construcción simultánea: 1  
 -Ancho de banda: 100GB  
 -Minutos de construcción: 300 minutos  
 -Sitios Web: 500   
 -Funciones de borde: 1 Millón x Mes (Por Exceso 2 dólares x 0.5 M)  
 
-# Igual al plan PRO
+## Igual al plan PRO
 -Máximos de sitios Web: 500  
 -Funciones sin servidor: 125k por sitio X mes (25 dólares por exceso)  
 -Formularios: 100 por sitio por mes(por exceso 19 dólares)  
 -Análisis del sitio: 9 dólares por sitio por mes  
 
-## Comparación entre los 2 servicios
+# Comparación entre los 2 servicios
 Tanto Firebase y Netlify tienen su plan base gratuito, pero ofrecen servicio totalmente distinto.
 
 -¿Por qué?-
@@ -100,41 +100,41 @@ Firebase es un todo en uno, es decir, es un entorno de desarrollo en la nube y n
 
 En cuanto a Netlify, es un servicio con algunas herramientas muy útiles fuera de su servicio Hosting, pero no deja de ser algo enfocado al alojamiento para tu página web y una herramienta más util para un desarrollador que dueño de página, ya que su plan esta enfocado para tener alojado multiples páginas.
 
-# Sistema de pagó
+## Sistema de pagó
 En este tema, también son muy diferentes.
 Firebase tiene un plan mensual variable, es decir, arranca de su base gratis cobrando solo los excesos.
 
 Netlify por su parte tiene su base gratis pero para pasar al plan pro debes pagar una cuota fija mensual, lo que podría no hacerlo muy rentable para una página que se excede de los limites por poco.
 
-# Base gratis (Solo Hosting)
-Ancho de banda:  
+## Base gratis (Solo Hosting)
+### Ancho de banda:  
 -Firebase: 360 MB x día x página Web | $0.15 x GB  
 -Netlify: 100 GB para total de sitios  
 
-Almacenamiento:  
+### Almacenamiento:  
 -Firebase: 10 GB por página Web | $0.026US x GB  
 -Netlify: 100 GB para total sitios  
 
-Tiempo de construcción:  
+### Tiempo de construcción:  
 -Firebase: Ilimitado  
 -Netlify: 300 Minutos x més  
 
-Certificado SSL:  
+### Certificado SSL:  
 -Firebase: Si  
 -Netlify: Si  
 
-Dominio personalizado:  
+### Dominio personalizado:  
 -Firebase: Si  
 -Netlify: SI  
 
-Soporte y documentación:  
+### Soporte y documentación:  
 -Firebase: Si  
 -Netlify: Si  
 
-Alojamiento Base de datos:  
+### Alojamiento Base de datos:  
 -Firebase: Si  
 -Netlify: No  
 
-Miembros de equipo:  
+### Miembros de equipo:  
 -Firebase: Ilimitado  
 -Netlify: 1  
