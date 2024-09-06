@@ -1,0 +1,10 @@
+pwd // dice la direccion en la que estas
+
+git=
+git status ||Comando para saber el estado del archivo con git
+
+los 3 estados de git=
+
+git add =   working directory
+            staging area              ||Observar
+git commit= repository                ||Embalar
