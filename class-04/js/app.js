@@ -1,8 +1,8 @@
-const form=document.getElementById('form');
-const btn=[...document.querySelectorAll('.style-btn')];
-const body=document.getElementById('body');
-const allButtons=[...document.getElementsByTagName('button')];
-const allInputs=[...document.getElementsByTagName('input')];
+const form = document.getElementById('form');
+const btn = [...document.querySelectorAll('.style-btn')];
+const body = document.getElementById('body');
+const allButtons = [...document.getElementsByTagName('button')];
+const allInputs = [...document.getElementsByTagName('input')];
 
 //Intercambia entre modos y también la clase 'active'
 btn.forEach(button=>{
@@ -45,6 +45,6 @@ form.addEventListener('submit',(e)=>{
     const inputs = form.querySelectorAll('input');
 
     alert('Your data has been successfully submitted.');
-    
+
     inputs.forEach(input => input.value = ''); 
 })
