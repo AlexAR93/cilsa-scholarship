@@ -1,5 +1,5 @@
 /** Cambia el placheholder a un tono gris cuando se aplica el text-bg-dark en inputs */
 
 input.text-bg-dark::placeholder {
-    color: #e0e0e0;
+    color: #727272;
 }
